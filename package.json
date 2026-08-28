@@ -1,0 +1,15 @@
+{
+  "name": "work_react",
+  "version": "1.0.0",
+  "description": "This is React by Pratiksha",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "pratiksha"
+  ],
+  "author": "",
+  "license": "ISC"
+}
