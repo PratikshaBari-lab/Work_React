@@ -1,8 +1,8 @@
 {
-  "name": "work_react",
+  "name": "git_work_react",
   "version": "1.0.0",
   "description": "This is React by Pratiksha",
-  "main": "App.js",
+  
   "scripts": {
     "test": "jest"
   },
